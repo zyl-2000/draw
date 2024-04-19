@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T11:58:32.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="15Ta1xxUlFJ0X2uTgUCw" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T12:01:20.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0k_Jf9QL8DWsBhM8jnoH" version="24.2.3" type="github">
   <diagram name="第 1 页" id="DCjY2M32DhdbJTFIdupm">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,21 @@
         </mxCell>
         <mxCell id="WjFN8tZ_Sl9ltCgVFsNj-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;Thymeleaf&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="315" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjFN8tZ_Sl9ltCgVFsNj-14" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="149" y="435" width="541" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WjFN8tZ_Sl9ltCgVFsNj-15" value="&lt;font face=&quot;Verdana&quot;&gt;服&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;务&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;层&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjFN8tZ_Sl9ltCgVFsNj-16" value="博客管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjFN8tZ_Sl9ltCgVFsNj-17" value="分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjFN8tZ_Sl9ltCgVFsNj-18" value="标签管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
