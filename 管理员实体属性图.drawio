@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T12:02:08.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ulDt9wjJwkFa5_oEQQeg" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T12:02:33.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LTeWPeXKCjRR8jtXm8if" version="24.3.1" type="github">
   <diagram name="第 1 页" id="2sDwQPWfVgfRdvYH4Abs">
     <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="iYfhENHHY9f339lWXAG6-7" value="评论ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="149" y="565" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iYfhENHHY9f339lWXAG6-8" value="内容" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="iYfhENHHY9f339lWXAG6-8" value="评论内容" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="253" y="565" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iYfhENHHY9f339lWXAG6-9" value="评论时间" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
